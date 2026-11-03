@@ -1,0 +1,165 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1060" height="1806" viewBox="0 0 1060 1806">
+<rect width="1060" height="1806" fill="#000000"/>
+<text x="40" y="46" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="26" fill="#f5f5f7">鼠须管皮肤总览 · 深色模式(黑底)</text>
+<text x="40" y="72" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="13" fill="#6e6e73">Squirrel 1.1.2 官方内置皮肤 · 候选窗示意(横排/圆角7px) · 色值取自 SharedSupport/squirrel.yaml · 跳过 native(系统配色)</text>
+<text x="40" y="104" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15" fill="#f5f5f7">碧水／Aqua <tspan font-size="11" fill="#6e6e73">aqua</tspan></text>
+<rect x="40" y="116" width="380" height="84" rx="7" fill="#eeeeec" stroke="#eeeeec" stroke-width="1"/>
+<text x="58" y="142" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="13" fill="#606060">shaijing</text>
+<text x="56" y="176" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#000000">1.</tspan><tspan fill="#000000" dx="2">曬經</tspan></text>
+<rect x="127.4" y="155" width="127" height="30" rx="4" fill="#0a3afa"/>
+<text x="135.4" y="176" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#ffffff">2.</tspan><tspan fill="#ffffff" dx="2">石景</tspan><tspan fill="#9dacfc" font-size="11" dx="8">shaijing</tspan></text>
+<text x="264.6" y="176" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#000000">3.</tspan><tspan fill="#000000" dx="2">晒镜</tspan></text>
+<text x="336.0" y="176" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#000000">4.</tspan><tspan fill="#000000" dx="2">山寨</tspan></text>
+<text x="550" y="104" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15" fill="#f5f5f7">青天／Azure <tspan font-size="11" fill="#6e6e73">azure</tspan></text>
+<rect x="550" y="116" width="380" height="84" rx="7" fill="#014e8b" stroke="#014e8b" stroke-width="1"/>
+<text x="568" y="142" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="13" fill="#77a6cf">shaijing</text>
+<text x="566" y="176" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#cceaff">1.</tspan><tspan fill="#cceaff" dx="2">曬經</tspan></text>
+<rect x="637.4" y="155" width="127" height="30" rx="4" fill="#000000"/>
+<text x="645.4" y="176" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#fffe7f">2.</tspan><tspan fill="#fffe7f" dx="2">石景</tspan><tspan fill="#6496c6" font-size="11" dx="8">shaijing</tspan></text>
+<text x="774.6" y="176" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#cceaff">3.</tspan><tspan fill="#cceaff" dx="2">晒镜</tspan></text>
+<text x="846.0" y="176" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#cceaff">4.</tspan><tspan fill="#cceaff" dx="2">山寨</tspan></text>
+<text x="40" y="272" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15" fill="#f5f5f7">明月／Luna <tspan font-size="11" fill="#6e6e73">luna</tspan></text>
+<rect x="40" y="284" width="380" height="84" rx="7" fill="#000000" stroke="#000000" stroke-width="1"/>
+<text x="58" y="310" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="13" fill="#a5a5a5">shaijing</text>
+<text x="56" y="344" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#eeeeec">1.</tspan><tspan fill="#eeeeec" dx="2">曬經</tspan></text>
+<rect x="127.4" y="323" width="127" height="30" rx="4" fill="#000000"/>
+<text x="135.4" y="344" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#ffff7f">2.</tspan><tspan fill="#ffff7f" dx="2">石景</tspan><tspan fill="#9d9c44" font-size="11" dx="8">shaijing</tspan></text>
+<text x="264.6" y="344" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#eeeeec">3.</tspan><tspan fill="#eeeeec" dx="2">晒镜</tspan></text>
+<text x="336.0" y="344" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#eeeeec">4.</tspan><tspan fill="#eeeeec" dx="2">山寨</tspan></text>
+<text x="550" y="272" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15" fill="#f5f5f7">墨池／Ink <tspan font-size="11" fill="#6e6e73">ink</tspan></text>
+<rect x="550" y="284" width="380" height="84" rx="7" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+<text x="568" y="310" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="13" fill="#5a5a5a">shaijing</text>
+<text x="566" y="344" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#000000">1.</tspan><tspan fill="#000000" dx="2">曬經</tspan></text>
+<rect x="637.4" y="323" width="127" height="30" rx="4" fill="#000000"/>
+<text x="645.4" y="344" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#ffffff">2.</tspan><tspan fill="#ffffff" dx="2">石景</tspan><tspan fill="#808080" font-size="11" dx="8">shaijing</tspan></text>
+<text x="774.6" y="344" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#000000">3.</tspan><tspan fill="#000000" dx="2">晒镜</tspan></text>
+<text x="846.0" y="344" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#000000">4.</tspan><tspan fill="#000000" dx="2">山寨</tspan></text>
+<text x="40" y="440" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15" fill="#f5f5f7">孤寺／Lost Temple <tspan font-size="11" fill="#6e6e73">lost_temple</tspan></text>
+<rect x="40" y="452" width="380" height="84" rx="7" fill="#303030" stroke="#303030" stroke-width="1"/>
+<text x="58" y="478" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="13" fill="#f6f3e8">shaijing</text>
+<text x="56" y="512" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#f6f3e8">1.</tspan><tspan fill="#f6f3e8" dx="2">曬經</tspan></text>
+<rect x="127.4" y="491" width="127" height="30" rx="4" fill="#cae682"/>
+<text x="135.4" y="512" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#000000">2.</tspan><tspan fill="#000000" dx="2">石景</tspan><tspan fill="#343d20" font-size="11" dx="8">shaijing</tspan></text>
+<text x="264.6" y="512" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#f6f3e8">3.</tspan><tspan fill="#f6f3e8" dx="2">晒镜</tspan></text>
+<text x="336.0" y="512" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#f6f3e8">4.</tspan><tspan fill="#f6f3e8" dx="2">山寨</tspan></text>
+<text x="550" y="440" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15" fill="#f5f5f7">暗堂／Dark Temple <tspan font-size="11" fill="#6e6e73">dark_temple</tspan></text>
+<rect x="550" y="452" width="380" height="84" rx="7" fill="#222222" stroke="#222222" stroke-width="1"/>
+<text x="568" y="478" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="13" fill="#daf692">shaijing</text>
+<text x="566" y="512" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#e6e3d8">1.</tspan><tspan fill="#e6e3d8" dx="2">曬經</tspan></text>
+<rect x="637.4" y="491" width="127" height="30" rx="4" fill="#000000"/>
+<text x="645.4" y="512" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#daf692">2.</tspan><tspan fill="#daf692" dx="2">石景</tspan><tspan fill="#ff6c60" font-size="11" dx="8">shaijing</tspan></text>
+<text x="774.6" y="512" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#e6e3d8">3.</tspan><tspan fill="#e6e3d8" dx="2">晒镜</tspan></text>
+<text x="846.0" y="512" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#e6e3d8">4.</tspan><tspan fill="#e6e3d8" dx="2">山寨</tspan></text>
+<text x="40" y="608" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15" fill="#f5f5f7">幽能／Psionics <tspan font-size="11" fill="#6e6e73">psionics</tspan></text>
+<rect x="40" y="620" width="380" height="84" rx="7" fill="#444444" stroke="#444444" stroke-width="1"/>
+<text x="58" y="646" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="13" fill="#c2c2c2">shaijing</text>
+<text x="56" y="680" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#eeeeee">1.</tspan><tspan fill="#eeeeee" dx="2">曬經</tspan></text>
+<rect x="127.4" y="659" width="127" height="30" rx="4" fill="#00bcd4"/>
+<text x="135.4" y="680" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#fafafa">2.</tspan><tspan fill="#fafafa" dx="2">石景</tspan><tspan fill="#444444" font-size="11" dx="8">shaijing</tspan></text>
+<text x="264.6" y="680" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#eeeeee">3.</tspan><tspan fill="#eeeeee" dx="2">晒镜</tspan></text>
+<text x="336.0" y="680" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#eeeeee">4.</tspan><tspan fill="#eeeeee" dx="2">山寨</tspan></text>
+<text x="550" y="608" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15" fill="#f5f5f7">純粹的形式／Purity of Form <tspan font-size="11" fill="#6e6e73">purity_of_form</tspan></text>
+<rect x="550" y="620" width="380" height="84" rx="7" fill="#444444" stroke="#444444" stroke-width="1"/>
+<text x="568" y="646" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="13" fill="#22c2c2">shaijing</text>
+<text x="566" y="680" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#eeeeee">1.</tspan><tspan fill="#eeeeee" dx="2">曬經</tspan></text>
+<rect x="637.4" y="659" width="127" height="30" rx="4" fill="#fafafa"/>
+<text x="645.4" y="680" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#000000">2.</tspan><tspan fill="#000000" dx="2">石景</tspan><tspan fill="#808080" font-size="11" dx="8">shaijing</tspan></text>
+<text x="774.6" y="680" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#eeeeee">3.</tspan><tspan fill="#eeeeee" dx="2">晒镜</tspan></text>
+<text x="846.0" y="680" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#eeeeee">4.</tspan><tspan fill="#eeeeee" dx="2">山寨</tspan></text>
+<text x="40" y="776" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15" fill="#f5f5f7">純粹的本質／Purity of Essence <tspan font-size="11" fill="#6e6e73">purity_of_essence</tspan></text>
+<rect x="40" y="788" width="380" height="84" rx="7" fill="#fafafa" stroke="#fafafa" stroke-width="1"/>
+<text x="58" y="814" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="13" fill="#cc2c2c">shaijing</text>
+<text x="56" y="848" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#000000">1.</tspan><tspan fill="#000000" dx="2">曬經</tspan></text>
+<rect x="127.4" y="827" width="127" height="30" rx="4" fill="#444444"/>
+<text x="135.4" y="848" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#eeeeee">2.</tspan><tspan fill="#eeeeee" dx="2">石景</tspan><tspan fill="#808080" font-size="11" dx="8">shaijing</tspan></text>
+<text x="264.6" y="848" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#000000">3.</tspan><tspan fill="#000000" dx="2">晒镜</tspan></text>
+<text x="336.0" y="848" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#000000">4.</tspan><tspan fill="#000000" dx="2">山寨</tspan></text>
+<text x="550" y="776" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15" fill="#f5f5f7">星際我爭霸／StarCraft <tspan font-size="11" fill="#6e6e73">starcraft</tspan></text>
+<rect x="550" y="788" width="380" height="84" rx="7" fill="#000000" stroke="#a01010" stroke-width="1"/>
+<text x="568" y="814" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="13" fill="#88aacc">shaijing</text>
+<text x="566" y="848" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#55bb30">1.</tspan><tspan fill="#55bb30" dx="2">曬經</tspan></text>
+<rect x="637.4" y="827" width="127" height="30" rx="4" fill="#000000"/>
+<text x="645.4" y="848" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#afff70">2.</tspan><tspan fill="#afff70" dx="2">石景</tspan><tspan fill="#f01010" font-size="11" dx="8">shaijing</tspan></text>
+<text x="774.6" y="848" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#55bb30">3.</tspan><tspan fill="#55bb30" dx="2">晒镜</tspan></text>
+<text x="846.0" y="848" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#55bb30">4.</tspan><tspan fill="#55bb30" dx="2">山寨</tspan></text>
+<text x="40" y="944" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15" fill="#f5f5f7">谷歌／Google <tspan font-size="11" fill="#6e6e73">google</tspan></text>
+<rect x="40" y="956" width="380" height="84" rx="7" fill="#ffffff" stroke="#e2e2e2" stroke-width="1"/>
+<text x="58" y="982" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="13" fill="#666666">shaijing</text>
+<text x="56" y="1016" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#000000">1.</tspan><tspan fill="#000000" dx="2">曬經</tspan></text>
+<rect x="127.4" y="995" width="127" height="30" rx="4" fill="#3975ce"/>
+<text x="135.4" y="1016" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#ffffff">2.</tspan><tspan fill="#ffffff" dx="2">石景</tspan><tspan fill="#b0c6eb" font-size="11" dx="8">shaijing</tspan></text>
+<text x="264.6" y="1016" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#000000">3.</tspan><tspan fill="#000000" dx="2">晒镜</tspan></text>
+<text x="336.0" y="1016" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#000000">4.</tspan><tspan fill="#000000" dx="2">山寨</tspan></text>
+<text x="550" y="944" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15" fill="#f5f5f7">曬經石／Solarized Rock <tspan font-size="11" fill="#6e6e73">solarized_rock</tspan></text>
+<rect x="550" y="956" width="380" height="84" rx="7" fill="#002b36" stroke="#002b36" stroke-width="1"/>
+<text x="568" y="982" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="13" fill="#d33682">shaijing</text>
+<text x="566" y="1016" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#839496">1.</tspan><tspan fill="#839496" dx="2">曬經</tspan></text>
+<rect x="637.4" y="995" width="127" height="30" rx="4" fill="#d33682"/>
+<text x="645.4" y="1016" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#ffffff">2.</tspan><tspan fill="#ffffff" dx="2">石景</tspan><tspan fill="#002b36" font-size="11" dx="8">shaijing</tspan></text>
+<text x="774.6" y="1016" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#839496">3.</tspan><tspan fill="#839496" dx="2">晒镜</tspan></text>
+<text x="846.0" y="1016" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#839496">4.</tspan><tspan fill="#839496" dx="2">山寨</tspan></text>
+<text x="40" y="1112" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15" fill="#f5f5f7">简约白／Clean White <tspan font-size="11" fill="#6e6e73">clean_white</tspan></text>
+<rect x="40" y="1124" width="380" height="84" rx="7" fill="#eeeeee" stroke="#eeeeee" stroke-width="1"/>
+<text x="58" y="1150" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="13" fill="#808080">shaijing</text>
+<text x="56" y="1184" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#888888">1.</tspan><tspan fill="#000000" dx="2">曬經</tspan></text>
+<rect x="127.4" y="1163" width="127" height="30" rx="4" fill="#eeeeee"/>
+<text x="135.4" y="1184" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#1589c9">2.</tspan><tspan fill="#1589c9" dx="2">石景</tspan><tspan fill="#808080" font-size="11" dx="8">shaijing</tspan></text>
+<text x="264.6" y="1184" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#888888">3.</tspan><tspan fill="#000000" dx="2">晒镜</tspan></text>
+<text x="336.0" y="1184" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#888888">4.</tspan><tspan fill="#000000" dx="2">山寨</tspan></text>
+<text x="550" y="1112" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15" fill="#f5f5f7">冷漠／Apathy <tspan font-size="11" fill="#6e6e73">apathy</tspan></text>
+<rect x="550" y="1124" width="380" height="84" rx="7" fill="#ffffff" stroke="#ffffff" stroke-width="1"/>
+<text x="568" y="1150" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="13" fill="#424242">shaijing</text>
+<text x="566" y="1184" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#424242">1.</tspan><tspan fill="#424242" dx="2">曬經</tspan></text>
+<rect x="637.4" y="1163" width="127" height="30" rx="4" fill="#e4f0ff"/>
+<text x="645.4" y="1184" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#006eee">2.</tspan><tspan fill="#006eee" dx="2">石景</tspan><tspan fill="#999999" font-size="11" dx="8">shaijing</tspan></text>
+<text x="774.6" y="1184" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#424242">3.</tspan><tspan fill="#424242" dx="2">晒镜</tspan></text>
+<text x="846.0" y="1184" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#424242">4.</tspan><tspan fill="#424242" dx="2">山寨</tspan></text>
+<text x="40" y="1280" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15" fill="#f5f5f7">浮尘／Dust <tspan font-size="11" fill="#6e6e73">dust</tspan></text>
+<rect x="40" y="1292" width="380" height="84" rx="7" fill="#ffffff" stroke="#93b6e0" stroke-width="1"/>
+<text x="58" y="1318" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="13" fill="#424242">shaijing</text>
+<text x="56" y="1352" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#cbcbcb">1.</tspan><tspan fill="#555555" dx="2">曬經</tspan></text>
+<rect x="127.4" y="1331" width="127" height="30" rx="4" fill="#e4f0ff"/>
+<text x="135.4" y="1352" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#000000">2.</tspan><tspan fill="#000000" dx="2">石景</tspan><tspan fill="#9e9e9e" font-size="11" dx="8">shaijing</tspan></text>
+<text x="264.6" y="1352" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#cbcbcb">3.</tspan><tspan fill="#555555" dx="2">晒镜</tspan></text>
+<text x="336.0" y="1352" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#cbcbcb">4.</tspan><tspan fill="#555555" dx="2">山寨</tspan></text>
+<text x="550" y="1280" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15" fill="#f5f5f7">沙漠夜／Mojave Dark <tspan font-size="11" fill="#6e6e73">mojave_dark</tspan></text>
+<rect x="550" y="1292" width="380" height="84" rx="7" fill="#202325" stroke="#020202" stroke-width="1"/>
+<text x="568" y="1318" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="13" fill="#ddddde">shaijing</text>
+<text x="566" y="1352" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#858788">1.</tspan><tspan fill="#ddddde" dx="2">曬經</tspan></text>
+<rect x="637.4" y="1331" width="127" height="30" rx="4" fill="#005dcb"/>
+<text x="645.4" y="1352" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#ffffff">2.</tspan><tspan fill="#ffffff" dx="2">石景</tspan><tspan fill="#ddddde" font-size="11" dx="8">shaijing</tspan></text>
+<text x="774.6" y="1352" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#858788">3.</tspan><tspan fill="#ddddde" dx="2">晒镜</tspan></text>
+<text x="846.0" y="1352" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#858788">4.</tspan><tspan fill="#ddddde" dx="2">山寨</tspan></text>
+<text x="40" y="1448" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15" fill="#f5f5f7">曬經・日／Solarized Light <tspan font-size="11" fill="#6e6e73">solarized_light</tspan></text>
+<rect x="40" y="1460" width="380" height="84" rx="7" fill="#fbf6e5" stroke="#ffffed" stroke-width="1"/>
+<text x="58" y="1486" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="13" fill="#95a0a1">shaijing</text>
+<text x="56" y="1520" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#0764a3">1.</tspan><tspan fill="#005e59" dx="2">曬經</tspan></text>
+<rect x="127.4" y="1499" width="127" height="30" rx="4" fill="#ede8d7"/>
+<text x="135.4" y="1520" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#cb4239">2.</tspan><tspan fill="#cb4239" dx="2">石景</tspan><tspan fill="#c24481" font-size="11" dx="8">shaijing</tspan></text>
+<text x="264.6" y="1520" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#0764a3">3.</tspan><tspan fill="#005e59" dx="2">晒镜</tspan></text>
+<text x="336.0" y="1520" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#0764a3">4.</tspan><tspan fill="#005e59" dx="2">山寨</tspan></text>
+<text x="550" y="1448" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15" fill="#f5f5f7">曬經・月／Solarized Dark <tspan font-size="11" fill="#6e6e73">solarized_dark</tspan></text>
+<rect x="550" y="1460" width="380" height="84" rx="7" fill="#0a2a35" stroke="#001f2a" stroke-width="1"/>
+<text x="568" y="1486" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="13" fill="#5d6e75">shaijing</text>
+<text x="566" y="1520" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#f48d47">1.</tspan><tspan fill="#ff8973" dx="2">曬經</tspan></text>
+<rect x="637.4" y="1499" width="127" height="30" rx="4" fill="#163540"/>
+<text x="645.4" y="1520" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#529f98">2.</tspan><tspan fill="#529f98" dx="2">石景</tspan><tspan fill="#899928" font-size="11" dx="8">shaijing</tspan></text>
+<text x="774.6" y="1520" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#f48d47">3.</tspan><tspan fill="#ff8973" dx="2">晒镜</tspan></text>
+<text x="846.0" y="1520" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#f48d47">4.</tspan><tspan fill="#ff8973" dx="2">山寨</tspan></text>
+<text x="40" y="1616" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15" fill="#f5f5f7">綠色熒光屏 <tspan font-size="11" fill="#6e6e73">retro_green</tspan></text>
+<rect x="40" y="1628" width="380" height="84" rx="7" fill="#000000" stroke="#00ff00" stroke-width="1"/>
+<text x="58" y="1654" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="13" fill="#00ff00">shaijing</text>
+<text x="56" y="1688" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#00ff00">1.</tspan><tspan fill="#00ff00" dx="2">曬經</tspan></text>
+<rect x="127.4" y="1667" width="127" height="30" rx="4" fill="#00ff00"/>
+<text x="135.4" y="1688" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#000000">2.</tspan><tspan fill="#000000" dx="2">石景</tspan><tspan fill="#999999" font-size="11" dx="8">shaijing</tspan></text>
+<text x="264.6" y="1688" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#00ff00">3.</tspan><tspan fill="#00ff00" dx="2">晒镜</tspan></text>
+<text x="336.0" y="1688" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#00ff00">4.</tspan><tspan fill="#00ff00" dx="2">山寨</tspan></text>
+<text x="550" y="1616" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15" fill="#f5f5f7">琥珀色熒光屏 <tspan font-size="11" fill="#6e6e73">retro_orange</tspan></text>
+<rect x="550" y="1628" width="380" height="84" rx="7" fill="#000000" stroke="#ff9300" stroke-width="1"/>
+<text x="568" y="1654" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="13" fill="#ff9300">shaijing</text>
+<text x="566" y="1688" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#ff9300">1.</tspan><tspan fill="#ff9300" dx="2">曬經</tspan></text>
+<rect x="637.4" y="1667" width="127" height="30" rx="4" fill="#ff9300"/>
+<text x="645.4" y="1688" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#000000">2.</tspan><tspan fill="#000000" dx="2">石景</tspan><tspan fill="#999999" font-size="11" dx="8">shaijing</tspan></text>
+<text x="774.6" y="1688" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#ff9300">3.</tspan><tspan fill="#ff9300" dx="2">晒镜</tspan></text>
+<text x="846.0" y="1688" font-family="-apple-system,'PingFang SC','Microsoft YaHei','Noto Sans SC',sans-serif" font-size="15"><tspan fill="#ff9300">4.</tspan><tspan fill="#ff9300" dx="2">山寨</tspan></text>
+</svg>
